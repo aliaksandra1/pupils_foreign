@@ -10,7 +10,7 @@ The analysis is based on a dataset of foreign pupils studying in Poland. The dat
 
 ### Data source:
 
-Dataframe taken from [open data resource](https://dane.gov.pl/pl).
+Dataframe taken from [open data resource](https://dane.gov.pl/pl) (reflecting data as of September 30, 2022).
 
 World map source - [natural earth](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_admin_0_countries_ukr.geojson)
 
