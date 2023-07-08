@@ -1,3 +1,5 @@
+## Note:  Due to the interactive nature of a geospatial map included in the project, they may not be fully visible in the static format. However, you can access the complete project, including the interactive map and code execution, by clicking on the [following link.](https://colab.research.google.com/drive/1BrbNsgXkp2vuoBSN3bF_mejSQEOjyV2x?authuser=1#scrollTo=vwnh5ftOE9V3) This will allow you to explore the project in its entirety and interact with the visualizations. Please follow the link to access the full project.
+
 # Analysis of Foreign Pupils in Poland
 
 This project aims to analyze the distribution and characteristics of foreign pupils studying in Poland. It explores the regional distribution, country of origin, and concentration in major cities. The analysis utilizes geospatial data and visualizations to provide insights into the educational landscape of foreign pupils in Poland.
@@ -37,4 +39,4 @@ These findings provide valuable insights into the distribution and characteristi
 
 Please refer to the code and visualizations in this project for more details and a comprehensive understanding of the analysis.
 
-## Note:  Due to the interactive nature of a geospatial map included in the project, they may not be fully visible in the static format. However, you can access the complete project, including the interactive map and code execution, by clicking on the [following link.](https://colab.research.google.com/drive/1BrbNsgXkp2vuoBSN3bF_mejSQEOjyV2x?authuser=1#scrollTo=vwnh5ftOE9V3) This will allow you to explore the project in its entirety and interact with the visualizations. Please follow the link to access the full project.
+
